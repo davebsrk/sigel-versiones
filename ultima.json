@@ -1,0 +1,6 @@
+{
+  "version": "0.6.1",
+  "notas": "Versión 0.6.1\n\n- Al crear la primera cuenta y los usuarios nuevos, los ejemplos de nombre y usuario son genéricos.\n- Al entrar, el usuario se acepta con mayúsculas o minúsculas («DavebSRK» entra como «davebsrk»).",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.6.1/SIGEL.exe",
+  "tamano": 38687744
+}
