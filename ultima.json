@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "notas": "Versión 0.6.2\n\n- SIGEL encuentra las versiones nuevas aunque GitHub esté limitando las consultas desde su conexión a internet.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.6.2/SIGEL.exe",
-  "tamano": 38691840
+  "version": "0.6.3",
+  "notas": "Versión 0.6.3\n\n- Constancia de estudios dirigida a un ente: en la ficha, «Constancia de estudios…» → «Dirigida a» (por ejemplo, el SAIME). La constancia dice «para ser presentada ante el SAIME» y queda anotado en la ficha y en el Historial. Vacío, sale como siempre.\n- La pantalla de entrada aclara que SIGEL es un programa independiente y no reemplaza al SIGE del Ministerio.\n- Si usa SIGEL en dos computadoras, actualice primero la principal.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.6.3/SIGEL.exe",
+  "tamano": 38839808
 }
