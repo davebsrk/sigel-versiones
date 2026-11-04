@@ -1,6 +1,6 @@
 {
-  "version": "0.6.4",
-  "notas": "Versión 0.6.4\n\n- La ventana de SIGEL se abre bien en cualquier monitor: ya no queda corrida ni más grande que la pantalla.\n- SIGEL recuerda en qué monitor y en qué lugar estaba la ventana y se vuelve a abrir ahí. Si ese monitor ya no está conectado, se abre en el monitor donde está el mouse.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.6.4/SIGEL.exe",
-  "tamano": 38852096
+  "version": "0.6.5",
+  "notas": "Versión 0.6.5\n\n- La pantalla de entrada cabe completa en pantallas pequeñas o con mucha escala (laptops, televisores): ya no se corta abajo.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.6.5/SIGEL.exe",
+  "tamano": 38860288
 }
