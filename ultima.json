@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
-  "notas": "Versión 0.7.0\n\n- Nueva pantalla de Inicio: al entrar se ve el resumen del año escolar en vez de la lista de estudiantes.\n- Arriba, un buscador listo para escribir: el nombre, el apellido o la cédula, y Enter abre la ficha.\n- Cinco cifras del año: inscritos, nuevo ingreso, repitientes, estudiantes con materias pendientes y retirados. Al pulsarlas se abre la lista correspondiente.\n- «Por atender» avisa lo que falta: cédulas repetidas o vacías, fechas de nacimiento y teléfonos sin llenar, notas del momento por cargar, materias sin docente, pendientes sin nota y el respaldo del día. Cada aviso lleva a donde se resuelve.\n- También muestra la matrícula por sección (hembras y varones), quiénes están en riesgo de repetir, los últimos cambios y los cumpleaños de la semana.\n- «Constancia de estudios» desde el Inicio: se busca al estudiante y su ficha se abre con la constancia lista para generar.\n- Al elegir un año cerrado, el Inicio muestra cómo terminó: promovidos, con pendientes, repitientes y retirados.\n- En Estudiantes hay un filtro nuevo: «Con datos por completar».",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.7.0/SIGEL.exe",
-  "tamano": 41696256
+  "version": "0.6.6",
+  "notas": "Versión 0.6.6\n\n- En pantallas de 768 de alto (como la del liceo) ya no se esconden los botones de abajo: en Formatos la lista se desplaza y el botón «Generar» queda siempre a la vista.\n- SIGEL cabe completo en laptops pequeñas o con mucha escala de Windows: lo que no cabe a lo alto se desplaza con la rueda del mouse, y las páginas ya no se cortan a la derecha.\n- La pantalla de entrada muestra su barra de desplazamiento cuando no cabe.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.6.6/SIGEL.exe",
+  "tamano": 39419392
 }
