@@ -1,6 +1,6 @@
 {
-  "version": "0.6.6",
-  "notas": "Versión 0.6.6\n\n- En pantallas de 768 de alto (como la del liceo) ya no se esconden los botones de abajo: en Formatos la lista se desplaza y el botón «Generar» queda siempre a la vista.\n- SIGEL cabe completo en laptops pequeñas o con mucha escala de Windows: lo que no cabe a lo alto se desplaza con la rueda del mouse, y las páginas ya no se cortan a la derecha.\n- La pantalla de entrada muestra su barra de desplazamiento cuando no cabe.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.6.6/SIGEL.exe",
-  "tamano": 39419392
+  "version": "0.7.1",
+  "notas": "Versión 0.7.1\n\n- Nueva pantalla de Inicio con el resumen del año escolar: buscador listo para escribir, cifras del año, «Por atender» (lo que falta y adónde ir a resolverlo), matrícula por sección, riesgo de repetir, últimos cambios y cumpleaños de la semana.\n- «Constancia de estudios» desde el Inicio: se busca al estudiante y su ficha se abre con la constancia lista.\n- En Estudiantes hay un filtro nuevo: «Con datos por completar».\n- Cuando haya una versión nueva de SIGEL, se avisa con una franja arriba y una ventana con las novedades y el botón «Actualizar ahora» (antes la ventanita de Windows podía quedar escondida y dejar el programa congelado).",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.7.1/SIGEL.exe",
+  "tamano": 41917952
 }
