@@ -1,6 +1,8 @@
 {
-  "version": "0.7.1",
-  "notas": "Versión 0.7.1\n\n- Nueva pantalla de Inicio con el resumen del año escolar: buscador listo para escribir, cifras del año, «Por atender» (lo que falta y adónde ir a resolverlo), matrícula por sección, riesgo de repetir, últimos cambios y cumpleaños de la semana.\n- «Constancia de estudios» desde el Inicio: se busca al estudiante y su ficha se abre con la constancia lista.\n- En Estudiantes hay un filtro nuevo: «Con datos por completar».\n- Cuando haya una versión nueva de SIGEL, se avisa con una franja arriba y una ventana con las novedades y el botón «Actualizar ahora» (antes la ventanita de Windows podía quedar escondida y dejar el programa congelado).",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.7.1/SIGEL.exe",
-  "tamano": 41917952
+  "version": "0.8.0",
+  "notas": "Versión 0.8.0\n\n- Boletines: SIGEL saca el boletín (informe evaluativo) de cada estudiante en PDF, listo para imprimir a doble cara y doblar por la mitad. Hay 20 diseños para elegir.\n- Se generan en Formatos → «Boletines»: por sección o de todo el liceo, con «Vista previa». Con «Algunos estudiantes» se repite solo el de quien haga falta.\n- Una sola vez, en Configuración → «Boletín»: el diseño, la foto o el escudo de la contratapa, los textos, las firmas, el sello y el logo del Ministerio de Educación.\n- En Notas → «Inasistencias y observaciones» se cargan las inasistencias del momento y una observación por estudiante. En Secciones se escribe el docente guía, que firma el boletín.\n- Esta actualización baja el programa completo (unos 85 MB) y puede tardar. Las próximas bajarán mucho menos.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.0/SIGEL.exe",
+  "tamano": 90081280,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.0/SIGEL.zip",
+  "tamano_zip": 35221149
 }
