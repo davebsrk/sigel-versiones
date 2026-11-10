@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "notas": "Versión 0.8.0\n\n- Boletines: SIGEL saca el boletín (informe evaluativo) de cada estudiante en PDF, listo para imprimir a doble cara y doblar por la mitad. Hay 20 diseños para elegir.\n- Se generan en Formatos → «Boletines»: por sección o de todo el liceo, con «Vista previa». Con «Algunos estudiantes» se repite solo el de quien haga falta.\n- Una sola vez, en Configuración → «Boletín»: el diseño, la foto o el escudo de la contratapa, los textos, las firmas, el sello y el logo del Ministerio de Educación.\n- En Notas → «Inasistencias y observaciones» se cargan las inasistencias del momento y una observación por estudiante. En Secciones se escribe el docente guía, que firma el boletín.\n- Esta actualización baja el programa completo (unos 85 MB) y puede tardar. Las próximas bajarán mucho menos.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.0/SIGEL.exe",
-  "tamano": 90081280,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.0/SIGEL.zip",
-  "tamano_zip": 35221149
+  "version": "0.8.1",
+  "notas": "Versión 0.8.1\n\n- Aviso de versión nueva: ahora es una tarjetita abajo a la derecha, también en la pantalla de entrada. Con «Ver novedades» se ve lo que trae cada versión, punto por punto.\n- Descarga con avance: al actualizar se ve cuánto falta y se puede seguir trabajando mientras baja.\n- Si falla la descarga: SIGEL lo dice en palabras simples, los datos quedan bien y se puede reintentar.\n- Cualquier usuario puede actualizar. Antes de bajar la versión nueva se hace un respaldo de los datos.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.1/SIGEL.exe",
+  "tamano": 90486784,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.1/SIGEL.zip",
+  "tamano_zip": 35338749
 }
