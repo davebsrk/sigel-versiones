@@ -1,8 +1,8 @@
 {
-  "version": "0.8.3",
-  "notas": "Versión 0.8.3\n\n- Novedades completas: ya no se corta el último punto de la lista.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.3/SIGEL.exe",
-  "tamano": 91258368,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.3/SIGEL.zip",
-  "tamano_zip": 35553277
+  "version": "0.8.4",
+  "notas": "Versión 0.8.4\n\n- Configuración: en pantallas angostas se ven todas las pestañas.\n- Observaciones: el campo ya no queda debajo de la barra.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.4/SIGEL.exe",
+  "tamano": 91259392,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.4/SIGEL.zip",
+  "tamano_zip": 35551343
 }
