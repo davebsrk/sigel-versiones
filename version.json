@@ -1,8 +1,8 @@
 {
-  "version": "0.8.1",
-  "notas": "Versión 0.8.1\n\n- Aviso de versión nueva: ahora es una tarjetita abajo a la derecha, también en la pantalla de entrada. Con «Ver novedades» se ve lo que trae cada versión, punto por punto.\n- Descarga con avance: al actualizar se ve cuánto falta y se puede seguir trabajando mientras baja.\n- Si falla la descarga: SIGEL lo dice en palabras simples, los datos quedan bien y se puede reintentar.\n- Cualquier usuario puede actualizar. Antes de bajar la versión nueva se hace un respaldo de los datos.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.1/SIGEL.exe",
-  "tamano": 90486784,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.1/SIGEL.zip",
-  "tamano_zip": 35338749
+  "version": "0.8.2",
+  "notas": "Versión 0.8.2\n\n- Notas más ordenadas: las casillas de las notas quedan centradas en cada fila.\n- Movimientos suaves: los mensajes de abajo, las ventanas emergentes y el aviso de versión nueva aparecen sin saltos. Si Windows tiene apagados los efectos de animación, SIGEL tampoco los usa.\n- Descarga más clara: la barra de avance de la actualización corre pareja.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.2/SIGEL.exe",
+  "tamano": 91260928,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.2/SIGEL.zip",
+  "tamano_zip": 35551873
 }
