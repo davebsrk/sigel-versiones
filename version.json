@@ -1,8 +1,8 @@
 {
-  "version": "0.8.4",
-  "notas": "Versión 0.8.4\n\n- Configuración: en pantallas angostas se ven todas las pestañas.\n- Observaciones: el campo ya no queda debajo de la barra.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.4/SIGEL.exe",
-  "tamano": 91259392,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.4/SIGEL.zip",
-  "tamano_zip": 35551343
+  "version": "0.8.5",
+  "notas": "Versión 0.8.5\n\n- Avisos propios: las preguntas ya no son ventanitas de Windows.\n- Usuarios: se puede cambiar el usuario para entrar y eliminarlo.\n- Al arrancar: los problemas se avisan dentro de SIGEL.\n- Estudiantes: eliminar pide confirmación con el aviso nuevo.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.5/SIGEL.exe",
+  "tamano": 91768832,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.5/SIGEL.zip",
+  "tamano_zip": 35692253
 }
