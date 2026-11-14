@@ -1,8 +1,8 @@
 {
-  "version": "0.8.6",
-  "notas": "Versión 0.8.6\n\n- Cédulas: no se puede guardar la cédula de otro estudiante.\n- Repetidos: avisa si ya hay un estudiante con el mismo nombre.\n- Nombres: se guardan con mayúscula inicial (también los que ya estaban).",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.6/SIGEL.exe",
-  "tamano": 91867136,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.6/SIGEL.zip",
-  "tamano_zip": 35706604
+  "version": "0.8.7",
+  "notas": "Versión 0.8.7\n\n- Matrícula desagregada: hembras y varones por sección en Excel, con totales por año, fecha y firmas.\n- Dónde: en Formatos, «Crear matrícula», o en el Inicio, debajo de la matrícula por sección.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.7/SIGEL.exe",
+  "tamano": 92063744,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.7/SIGEL.zip",
+  "tamano_zip": 35762899
 }
