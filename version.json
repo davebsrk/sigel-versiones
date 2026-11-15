@@ -1,8 +1,8 @@
 {
-  "version": "0.8.8",
-  "notas": "Versión 0.8.8\n\n- Reparaciones: nueva pestaña «Reparación» en Materias pendientes. Salen solas las materias con la definitiva reprobada, con sus dos oportunidades (1 a 20 o IN).\n- Nota definitiva: si aprueba en la reparación, queda esa nota. Si aprueba en la 1.ª, la 2.ª queda con «*».\n- Paso de año: lo aprobado en reparación ya no cuenta como reprobado; lo que no aprobó pasa como materia pendiente. Avisa a quién le falta presentar.\n- Inicio: en julio avisa las reparaciones que siguen sin nota.\n- Configuración: en Calendario y evaluación, el mes de las reparaciones y las materias que van a reparación. En «Materias reprobadas con las que pasa con pendientes» se puede escribir «todas» para que nadie repita por materias.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.8/SIGEL.exe",
-  "tamano": 92765696,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.8/SIGEL.zip",
-  "tamano_zip": 35952502
+  "version": "0.8.9",
+  "notas": "Versión 0.8.9\n\n- SIGEL se abre una sola vez en cada PC: si ya está abierto y se vuelve a abrir, aparece la ventana que ya estaba (aunque estuviera minimizada). Así no quedan dos SIGEL trabajando a la vez sobre los mismos datos.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.9/SIGEL.exe",
+  "tamano": 92650496,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.9/SIGEL.zip",
+  "tamano_zip": 35905671
 }
