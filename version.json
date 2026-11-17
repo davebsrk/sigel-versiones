@@ -1,8 +1,8 @@
 {
-  "version": "0.8.9",
-  "notas": "Versión 0.8.9\n\n- SIGEL se abre una sola vez en cada PC: si ya está abierto y se vuelve a abrir, aparece la ventana que ya estaba (aunque estuviera minimizada). Así no quedan dos SIGEL trabajando a la vez sobre los mismos datos.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.9/SIGEL.exe",
-  "tamano": 92650496,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.8.9/SIGEL.zip",
-  "tamano_zip": 35905671
+  "version": "0.9.0",
+  "notas": "Versión 0.9.0\n\n- Años escolares anteriores: en Configuración → Datos y respaldos se puede agregar un año escolar de antes de usar SIGEL (por ejemplo 2021-2022). Queda cerrado y con el plan de estudio del año más cercano, para crear sus secciones, inscribir a los estudiantes y cargar sus notas.\n- Resultados de un año cerrado: en Paso de año se puede corregir si un estudiante pasó o repitió (se guarda al elegirlo). En un año agregado a mano, «Guardar resultados» guarda los que propone el programa según las notas.\n- Nueva sección: la letra que se sugiere es la primera libre de ese año (A en un año sin secciones).",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.0/SIGEL.exe",
+  "tamano": 92798464,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.0/SIGEL.zip",
+  "tamano_zip": 35935799
 }
