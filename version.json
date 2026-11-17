@@ -1,8 +1,8 @@
 {
-  "version": "0.9.1",
-  "notas": "Versión 0.9.1\n\n- Notas de todos los años: en la ficha del estudiante se muestra cada año cursado, con su sección y su resultado, y la definitiva de cada materia. Si la aprobó en reparación o como pendiente, se indica con qué nota y en qué oportunidad.\n- Repitientes: nuevo filtro en Estudiantes. La cifra «Repitientes» del Inicio lleva directamente a él.\n- Textos revisados: los mensajes, botones y ayudas del programa ahora son más claros y formales.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.1/SIGEL.exe",
-  "tamano": 93159936,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.1/SIGEL.zip",
-  "tamano_zip": 36023890
+  "version": "0.9.2",
+  "notas": "Versión 0.9.2\n\n- Ficha del estudiante: ahora se organiza por bloques (Identificación, Nacimiento, Representante y observaciones, Año escolar y Trayectoria), con las iniciales, la sección y el estado en el encabezado. La trayectoria muestra cada año cursado con su sección y su resultado.\n- Lugar de nacimiento: ahora incluye el país, además del estado y el municipio. Si un estudiante no lo tiene registrado, la ficha propone el del plantel para verificarlo y confirmarlo.\n- Datos del plantel: nuevos campos para el país, el estado y el municipio del plantel.\n- Dos computadoras: actualice primero la PC principal y después la otra.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.2/SIGEL.exe",
+  "tamano": 93689856,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.2/SIGEL.zip",
+  "tamano_zip": 36155353
 }
