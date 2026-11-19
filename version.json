@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
-  "notas": "Versión 0.10.0\n\n- Respaldo en la nube: SIGEL sube automáticamente una copia cifrada de todos los datos cada día que hay cambios. Se conservan las diarias de 30 días, la primera de cada mes durante un año y la de cada cierre de año escolar.\n- Restaurar desde la nube: en Configuración → Datos y respaldos, los administradores pueden recuperar cualquier copia guardada. Antes de reemplazar los datos se sube una copia del estado actual.\n- Computadora nueva: al activar la licencia en una computadora sin datos, SIGEL ofrece recuperar los datos del liceo desde la nube.\n- Copias previas: antes de restaurar un respaldo, abrir un archivo .sigel o actualizar SIGEL, se sube a la nube una copia del estado actual.\n- Inicio: avisa si el respaldo en la nube no se completa desde hace varios días.\n- Más seguridad: los respaldos y archivos .sigel ya no guardan el código de activación.\n- Dos computadoras: actualice primero la PC principal y después la otra. El respaldo en la nube se hace solo desde la PC principal.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.0/SIGEL.exe",
-  "tamano": 96133632,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.0/SIGEL.zip",
-  "tamano_zip": 36816007
+  "version": "0.10.1",
+  "notas": "Versión 0.10.1\n\n- Dos computadoras: actualice primero la PC conectada y después la principal (también funciona al revés). Mientras tengan versiones distintas, SIGEL lo indica con un aviso.\n- Respaldo en la nube: no se sube automáticamente mientras no haya estudiantes registrados, y el Inicio avisa si nunca se pudo completar una copia.\n- Restaurar: si una plantilla no se puede escribir porque está abierta, los datos se restauran igual y SIGEL lo indica. Las plantillas reemplazadas se guardan en la carpeta «anteriores».\n- Más seguridad: los respaldos de esta computadora y los archivos .sigel ya no guardan el código de activación ni la clave de la red.\n- Computadora nueva: la búsqueda del respaldo en la nube se puede omitir y ofrece la copia más reciente que tenga estudiantes.\n- Correcciones: avisos al iniciar que ahora se pueden leer, respaldos manuales que ya no desplazan a los diarios y otras mejoras.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.1/SIGEL.exe",
+  "tamano": 96313856,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.1/SIGEL.zip",
+  "tamano_zip": 36880287
 }
