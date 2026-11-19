@@ -1,8 +1,8 @@
 {
-  "version": "0.10.1",
-  "notas": "Versión 0.10.1\n\n- Dos computadoras: actualice primero la PC conectada y después la principal (también funciona al revés). Mientras tengan versiones distintas, SIGEL lo indica con un aviso.\n- Respaldo en la nube: no se sube automáticamente mientras no haya estudiantes registrados, y el Inicio avisa si nunca se pudo completar una copia.\n- Restaurar: si una plantilla no se puede escribir porque está abierta, los datos se restauran igual y SIGEL lo indica. Las plantillas reemplazadas se guardan en la carpeta «anteriores».\n- Más seguridad: los respaldos de esta computadora y los archivos .sigel ya no guardan el código de activación ni la clave de la red.\n- Computadora nueva: la búsqueda del respaldo en la nube se puede omitir y ofrece la copia más reciente que tenga estudiantes.\n- Correcciones: avisos al iniciar que ahora se pueden leer, respaldos manuales que ya no desplazan a los diarios y otras mejoras.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.1/SIGEL.exe",
-  "tamano": 96313856,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.1/SIGEL.zip",
-  "tamano_zip": 36880287
+  "version": "0.10.2",
+  "notas": "Versión 0.10.2\n\n- Dos computadoras: si la PC principal se apaga o se corta la red, la PC conectada ya no se traba ni pierde el nombre del liceo de la barra; cuando la principal vuelve, todo se repone solo.\n- Respaldo en la nube: al activar un código de activación nuevo, la primera copia se sube enseguida. Una vez al día SIGEL comprueba que la copia esté guardada en la nube.\n- Datos de otro liceo: si se restaura una copia de otro plantel, SIGEL no la sube a la nube hasta que un administrador lo confirme con «Subir ahora».\n- Correcciones: textos más claros en el Inicio y en Configuración → Licencia, y otras mejoras.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.2/SIGEL.exe",
+  "tamano": 96343552,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.2/SIGEL.zip",
+  "tamano_zip": 36887961
 }
