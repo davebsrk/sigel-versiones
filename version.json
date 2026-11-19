@@ -1,8 +1,8 @@
 {
-  "version": "0.9.2",
-  "notas": "Versión 0.9.2\n\n- Ficha del estudiante: ahora se organiza por bloques (Identificación, Nacimiento, Representante y observaciones, Año escolar y Trayectoria), con las iniciales, la sección y el estado en el encabezado. La trayectoria muestra cada año cursado con su sección y su resultado.\n- Lugar de nacimiento: ahora incluye el país, además del estado y el municipio. Si un estudiante no lo tiene registrado, la ficha propone el del plantel para verificarlo y confirmarlo.\n- Datos del plantel: nuevos campos para el país, el estado y el municipio del plantel.\n- Dos computadoras: actualice primero la PC principal y después la otra.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.2/SIGEL.exe",
-  "tamano": 93689856,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.9.2/SIGEL.zip",
-  "tamano_zip": 36155353
+  "version": "0.10.0",
+  "notas": "Versión 0.10.0\n\n- Respaldo en la nube: SIGEL sube automáticamente una copia cifrada de todos los datos cada día que hay cambios. Se conservan las diarias de 30 días, la primera de cada mes durante un año y la de cada cierre de año escolar.\n- Restaurar desde la nube: en Configuración → Datos y respaldos, los administradores pueden recuperar cualquier copia guardada. Antes de reemplazar los datos se sube una copia del estado actual.\n- Computadora nueva: al activar la licencia en una computadora sin datos, SIGEL ofrece recuperar los datos del liceo desde la nube.\n- Copias previas: antes de restaurar un respaldo, abrir un archivo .sigel o actualizar SIGEL, se sube a la nube una copia del estado actual.\n- Inicio: avisa si el respaldo en la nube no se completa desde hace varios días.\n- Más seguridad: los respaldos y archivos .sigel ya no guardan el código de activación.\n- Dos computadoras: actualice primero la PC principal y después la otra. El respaldo en la nube se hace solo desde la PC principal.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.0/SIGEL.exe",
+  "tamano": 96133632,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.0/SIGEL.zip",
+  "tamano_zip": 36816007
 }
