@@ -1,8 +1,8 @@
 {
-  "version": "0.10.2",
-  "notas": "Versión 0.10.2\n\n- Dos computadoras: si la PC principal se apaga o se corta la red, la PC conectada ya no se traba ni pierde el nombre del liceo de la barra; cuando la principal vuelve, todo se repone solo.\n- Respaldo en la nube: al activar un código de activación nuevo, la primera copia se sube enseguida. Una vez al día SIGEL comprueba que la copia esté guardada en la nube.\n- Datos de otro liceo: si se restaura una copia de otro plantel, SIGEL no la sube a la nube hasta que un administrador lo confirme con «Subir ahora».\n- Correcciones: textos más claros en el Inicio y en Configuración → Licencia, y otras mejoras.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.2/SIGEL.exe",
-  "tamano": 96343552,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.2/SIGEL.zip",
-  "tamano_zip": 36887961
+  "version": "0.10.3",
+  "notas": "Versión 0.10.3\n\n- Certificación de calificaciones: SIGEL genera las notas certificadas de cada estudiante desde la ficha, en «Notas de todos los años» → «Generar certificación», con el formato de Educación Media General (31059) o de Media Técnica (49001).\n- Contenido de la certificación: incluye las materias aprobadas en los años terminados, con su tipo de evaluación (F, R o P) y la fecha correspondiente. Los datos que faltan quedan en blanco y SIGEL los indica antes de imprimir.\n- Datos del plantel: en Configuración → Datos del plantel se agregaron el teléfono y la dirección corta que aparecen en las certificaciones; el código DEA aparece también en ellas.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.3/SIGEL.exe",
+  "tamano": 96516096,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.3/SIGEL.zip",
+  "tamano_zip": 36965999
 }
