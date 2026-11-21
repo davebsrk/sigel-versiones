@@ -1,9 +1,9 @@
 {
-  "version": "0.10.4",
-  "notas": "Versión 0.10.4\n\n- Liceos con dos computadoras: actualice primero la PC conectada y después la PC principal.\n- Sesión bloqueada: al bloquearse la sesión ya no queda ninguna ventana abierta encima de la pantalla de bloqueo.\n- Estudiantes: dejar sin nombre a un estudiante que ya estaba no lo elimina; «Anular inscripción» pide confirmación y quita también las materias pendientes de ese año.\n- Importar listas: las cédulas y los teléfonos con puntos se leen completos, dos estudiantes con el mismo nombre y distinta cédula ya no se juntan, y se reconoce la lista aunque tenga un título encima de la tabla.\n- Notas: una nota mal escrita ya no borra la que estaba, y escribir notas cuenta como uso (la sesión no se bloquea mientras se cargan).\n- Respaldos: restaurar un respaldo que no se puede abrir deja los datos y la licencia como estaban; las copias de antes de restaurar ya no se reemplazan entre sí; se avisa si una carpeta de respaldo no está disponible.\n- Constancias y boletines: nombres de archivo seguros, la constancia de retiro lleva la cédula en el nombre y el boletín con muchas materias ya no tapa el pie de la hoja.\n- Paso de año: no se puede poner «Promovido» a un estudiante del último año.\n- Certificación de calificaciones: una materia aprobada en reparación o como pendiente aparece aunque falten las notas del año.\n- Plantillas: al actualizar se conservan las plantillas personalizadas por el liceo.\n- Seguridad: mejoras en la conexión entre las dos computadoras, en la actualización y en la conversión a PDF.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.4/SIGEL.exe",
-  "tamano": 96589824,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.4/SIGEL.zip",
-  "tamano_zip": 36998169,
-  "sha256": "585fef14a5a251ee860acd283f1b5c0d62536a8ba93dbb12d07f76de0637b86e"
+  "version": "0.10.5",
+  "notas": "Versión 0.10.5\n\n- Liceos con dos computadoras: actualice primero la PC conectada y después la PC principal.\n- Conexión entre las dos computadoras: la comunicación va cifrada, y la PC principal comprueba el usuario, la clave y los permisos de cada persona.\n- Actualizaciones: SIGEL instala únicamente las versiones firmadas por quien proporciona SIGEL.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.5/SIGEL.exe",
+  "tamano": 96769536,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.5/SIGEL.zip",
+  "tamano_zip": 37058133,
+  "sha256": "26c7bab4af344f7b5a86b185fed45aac1791b4dbe1e9cec99621d7a5db64038c"
 }
