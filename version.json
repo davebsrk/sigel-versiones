@@ -1,8 +1,9 @@
 {
-  "version": "0.10.3",
-  "notas": "Versión 0.10.3\n\n- Certificación de calificaciones: SIGEL genera las notas certificadas de cada estudiante desde la ficha, en «Notas de todos los años» → «Generar certificación», con el formato de Educación Media General (31059) o de Media Técnica (49001).\n- Contenido de la certificación: incluye las materias aprobadas en los años terminados, con su tipo de evaluación (F, R o P) y la fecha correspondiente. Los datos que faltan quedan en blanco y SIGEL los indica antes de imprimir.\n- Datos del plantel: en Configuración → Datos del plantel se agregaron el teléfono y la dirección corta que aparecen en las certificaciones; el código DEA aparece también en ellas.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.3/SIGEL.exe",
-  "tamano": 96516096,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.3/SIGEL.zip",
-  "tamano_zip": 36965999
+  "version": "0.10.4",
+  "notas": "Versión 0.10.4\n\n- Liceos con dos computadoras: actualice primero la PC conectada y después la PC principal.\n- Sesión bloqueada: al bloquearse la sesión ya no queda ninguna ventana abierta encima de la pantalla de bloqueo.\n- Estudiantes: dejar sin nombre a un estudiante que ya estaba no lo elimina; «Anular inscripción» pide confirmación y quita también las materias pendientes de ese año.\n- Importar listas: las cédulas y los teléfonos con puntos se leen completos, dos estudiantes con el mismo nombre y distinta cédula ya no se juntan, y se reconoce la lista aunque tenga un título encima de la tabla.\n- Notas: una nota mal escrita ya no borra la que estaba, y escribir notas cuenta como uso (la sesión no se bloquea mientras se cargan).\n- Respaldos: restaurar un respaldo que no se puede abrir deja los datos y la licencia como estaban; las copias de antes de restaurar ya no se reemplazan entre sí; se avisa si una carpeta de respaldo no está disponible.\n- Constancias y boletines: nombres de archivo seguros, la constancia de retiro lleva la cédula en el nombre y el boletín con muchas materias ya no tapa el pie de la hoja.\n- Paso de año: no se puede poner «Promovido» a un estudiante del último año.\n- Certificación de calificaciones: una materia aprobada en reparación o como pendiente aparece aunque falten las notas del año.\n- Plantillas: al actualizar se conservan las plantillas personalizadas por el liceo.\n- Seguridad: mejoras en la conexión entre las dos computadoras, en la actualización y en la conversión a PDF.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.4/SIGEL.exe",
+  "tamano": 96589824,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.4/SIGEL.zip",
+  "tamano_zip": 36998169,
+  "sha256": "585fef14a5a251ee860acd283f1b5c0d62536a8ba93dbb12d07f76de0637b86e"
 }
