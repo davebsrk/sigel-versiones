@@ -1,10 +1,9 @@
 {
-  "version": "0.10.5",
-  "notas": "Versión 0.10.5\n\n- Liceos con dos computadoras: actualice primero la PC conectada y después la PC principal.\n- Conexión entre las dos computadoras: la comunicación va cifrada, y la PC principal comprueba el usuario, la clave y los permisos de cada persona.\n- Actualizaciones: SIGEL instala únicamente las versiones firmadas por quien proporciona SIGEL.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.5/SIGEL.exe",
-  "tamano": 96769536,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.5/SIGEL.zip",
-  "tamano_zip": 37058133,
-  "sha256": "26c7bab4af344f7b5a86b185fed45aac1791b4dbe1e9cec99621d7a5db64038c",
-  "firma": "GfKOSGwqcTlHxDKSO2LfQuFHqudBRK5EHpdHJjz3XpJH9xwWaDm7OjRgyXhHu0BlYrI5kfbGv53z81TuwLJHCA=="
+  "version": "0.10.6",
+  "notas": "Versión 0.10.6\n\n- Clave de conexión: en Configuración → Red, la PC principal puede crear una clave nueva con «Cambiar la clave».\n- Conexión entre computadoras: la PC principal solo acepta computadoras con SIGEL 0.10.5 o posterior.\n- Permisos: desde la PC conectada, eliminar el registro de un estudiante queda reservado a los administradores.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.6/SIGEL.exe",
+  "tamano": 96806400,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.6/SIGEL.zip",
+  "tamano_zip": 37057121,
+  "sha256": "9098cdb19a42baa0f0360cf02944c998239b084f9ef8f4279b5db13f046054a2"
 }
