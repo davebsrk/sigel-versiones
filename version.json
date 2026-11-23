@@ -1,10 +1,9 @@
 {
-  "version": "0.10.6",
-  "notas": "Versión 0.10.6\n\n- Clave de conexión: en Configuración → Red, la PC principal puede crear una clave nueva con «Cambiar la clave».\n- Conexión entre computadoras: la PC principal solo acepta computadoras con SIGEL 0.10.5 o posterior.\n- Permisos: desde la PC conectada, eliminar el registro de un estudiante queda reservado a los administradores.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.6/SIGEL.exe",
-  "tamano": 96806400,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.6/SIGEL.zip",
-  "tamano_zip": 37057121,
-  "sha256": "9098cdb19a42baa0f0360cf02944c998239b084f9ef8f4279b5db13f046054a2",
-  "firma": "n/MRtuTKYDytVklBVwBX6nsNcCN3ooWvWECGGhYF+eu52Qrn4lkJuAZzFFkagphw7d4nFX/GyoaF+sgElNAIAw=="
+  "version": "0.10.7",
+  "notas": "Versión 0.10.7\n\n- Formatos en PDF: los PDF se crean en segundo plano y puede seguir trabajando mientras tanto.\n- PC conectada: si no puede usar los datos de la PC principal, se actualiza sin iniciar sesión.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.7/SIGEL.exe",
+  "tamano": 96863232,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.7/SIGEL.zip",
+  "tamano_zip": 37077224,
+  "sha256": "6d53166dc60353d1ac1c622e36610fd4ef24f4972727e3b1ea6cb23b7e6fa491"
 }
