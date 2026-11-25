@@ -1,10 +1,9 @@
 {
-  "version": "0.10.8",
-  "notas": "Versión 0.10.8\n\n- Años de otro plantel: en «Notas de todos los años» se cargan los años cursados en otro liceo, con sus notas.\n- Certificación de calificaciones: incluye varios planteles, el grupo de creación de cada año y el promedio.\n- Antes de actualizar: esta versión actualiza los datos; las copias que haga ya no se abren en versiones anteriores.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.8/SIGEL.exe",
-  "tamano": 97830912,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.8/SIGEL.zip",
-  "tamano_zip": 37338886,
-  "sha256": "a16726787d2decfe54165c5654d4ccff4b2ce7305f9a7c90acbeefab28e8ad3c",
-  "firma": "A+ewn8tUXxXhGv4yNjAZ3OD2MbmRuCfsNsClIpkSkxiHqGQAICmvUZmNtXpgW9qZy9azNIyU7MG7q05/8oAzAg=="
+  "version": "0.10.9",
+  "notas": "Versión 0.10.9\n\n- Barra lateral: el usuario, sus opciones y el estado de la computadora se muestran ahora ordenados en una tarjeta.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.9/SIGEL.exe",
+  "tamano": 97895936,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.9/SIGEL.zip",
+  "tamano_zip": 37358033,
+  "sha256": "69fc1af4e6cd8110d0aadfc89a313795fdf58df9aa7f1a6bb3d7f71ca2738842"
 }
