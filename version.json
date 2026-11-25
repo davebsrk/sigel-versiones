@@ -1,10 +1,9 @@
 {
-  "version": "0.10.7",
-  "notas": "Versión 0.10.7\n\n- Formatos en PDF: los PDF se crean en segundo plano y puede seguir trabajando mientras tanto.\n- PC conectada: si no puede usar los datos de la PC principal, se actualiza sin iniciar sesión.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.7/SIGEL.exe",
-  "tamano": 96863232,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.7/SIGEL.zip",
-  "tamano_zip": 37077224,
-  "sha256": "6d53166dc60353d1ac1c622e36610fd4ef24f4972727e3b1ea6cb23b7e6fa491",
-  "firma": "s5CwjmGmi5f06fvjmiKC9uaV5/39iRs4DFIJy3O2ASMfYf+bBqqlEOf4nhl+D+LfDlmAk3FB+2vieBmB6QKPBw=="
+  "version": "0.10.8",
+  "notas": "Versión 0.10.8\n\n- Años de otro plantel: en «Notas de todos los años» se cargan los años cursados en otro liceo, con sus notas.\n- Certificación de calificaciones: incluye varios planteles, el grupo de creación de cada año y el promedio.\n- Antes de actualizar: esta versión actualiza los datos; las copias que haga ya no se abren en versiones anteriores.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.8/SIGEL.exe",
+  "tamano": 97830912,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.8/SIGEL.zip",
+  "tamano_zip": 37338886,
+  "sha256": "a16726787d2decfe54165c5654d4ccff4b2ce7305f9a7c90acbeefab28e8ad3c"
 }
