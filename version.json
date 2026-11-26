@@ -5,5 +5,6 @@
   "tamano": 99264512,
   "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.11.1/SIGEL.zip",
   "tamano_zip": 37740606,
-  "sha256": "ee493dc6c21e769de6226929ac05db541a834ad2b765bf60a32246c318b0f9b3"
+  "sha256": "ee493dc6c21e769de6226929ac05db541a834ad2b765bf60a32246c318b0f9b3",
+  "firma": "jWgG8JLpAafmld7gNgLGWmE9B809bNH1aEZ5LoYkVoUD5lLvkbX7IbUhjUQFJK3zH/Rwmuf1Dgp8Y7SMIcahDA=="
 }
