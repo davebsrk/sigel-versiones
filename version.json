@@ -1,10 +1,9 @@
 {
-  "version": "0.10.9",
-  "notas": "Versión 0.10.9\n\n- Barra lateral: el usuario, sus opciones y el estado de la computadora se muestran ahora ordenados en una tarjeta.",
-  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.9/SIGEL.exe",
-  "tamano": 97895936,
-  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.10.9/SIGEL.zip",
-  "tamano_zip": 37358033,
-  "sha256": "69fc1af4e6cd8110d0aadfc89a313795fdf58df9aa7f1a6bb3d7f71ca2738842",
-  "firma": "IatkNOh6DzJbfvx8xXmWsVQN7UE/iBdAETeVaGK8phpgmf9jBVZMaIwBcDpnrPw+CDnRs9TL6hiowTZ8f0+ODw=="
+  "version": "0.11.0",
+  "notas": "Versión 0.11.0\n\n- Foto del estudiante: en la ficha puede agregarse una foto (opcional), que aparece en el boletín junto al nombre.\n- Boletines: los estudiantes sin foto mantienen el boletín de siempre.\n- Cambiar mi clave: la tecla Esc cancela el cambio.\n- Antes de actualizar: esta versión actualiza los datos; las copias que haga ya no se abren en versiones anteriores.",
+  "url": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.11.0/SIGEL.exe",
+  "tamano": 98222080,
+  "zip": "https://github.com/davebsrk/sigel-versiones/releases/download/v0.11.0/SIGEL.zip",
+  "tamano_zip": 37478469,
+  "sha256": "2360decf8ae442a43ff37ada23bf42fcbf240b9ea1eb253560af95e13d1e9c07"
 }
